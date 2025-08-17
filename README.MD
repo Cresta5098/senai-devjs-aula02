@@ -15,4 +15,8 @@
     </code>
 </body>
 </html>
+<<<<<<< HEAD
 alterado no repositório local
+=======
+alterado no GitHub
+>>>>>>> 56c39209c328dc86724017cdea3f782f662a9136
